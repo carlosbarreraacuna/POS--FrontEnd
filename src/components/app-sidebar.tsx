@@ -71,7 +71,7 @@ export function AppSidebar() {
     <Sidebar>
       <SidebarHeader>
         <div className="flex items-center gap-2 px-4 py-2">
-          <Image src="/cardique.png" alt="" width={32} height={32} />
+          <Image src="/shop.png" alt="" width={40} height={60} />
           <div>
             <h2 className="text-lg font-semibold">POS - SYSTEM</h2>
             <p className="text-sm text-muted-foreground">Sistema de Restaurante</p>
